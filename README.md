@@ -92,3 +92,12 @@ node steampunkartgenerator.js "steampunk knight in full brass armor" --token "$N
 - `"steampunk laboratory interior, bubbling alchemical apparatus, copper pipes and gauges, warm amber gaslight"`
 - `"Victorian steampunk duchess, elaborate clockwork jewelry, silk and gears, aristocratic setting"`
 
+## Example Output
+
+```bash
+node steampunkartgenerator.js "steampunk portrait, Victorian era brass gears and clockwork machinery, leather and copper aesthetic, ornate goggles, steam-powered devices, industrial fantasy, dramatic gaslight lighting, detailed mechanical embellishments, rich warm tones"
+```
+
+![Example output](https://oss.talesofai.cn/picture/ff2f46db-a80b-4da7-91b3-e7dd6bafa9d5.webp)
+
+> Prompt: *"steampunk portrait, Victorian era brass gears and clockwork machinery, leather and copper aesthetic, ornate goggles, steam-powered devices, industrial fantasy, dramatic gaslight lighting, detailed mechanical embellishments, rich warm tones"*
